@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -ex
 
-OBSIDIAN_VERSION="1.3.7"
+OBSIDIAN_VERSION="1.4.16"
 OBSIDIAN_URL="https://github.com/obsidianmd/obsidian-releases/releases/download/v${OBSIDIAN_VERSION}/Obsidian-${OBSIDIAN_VERSION}.AppImage"
 
 mkdir -p /opt/obsidian
